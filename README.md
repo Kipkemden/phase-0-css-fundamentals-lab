@@ -149,3 +149,9 @@ machines, adaptation is for humans!
   https://curriculum-content.s3.amazonaws.com/web-development/unstyled-codepen.jpeg
 [styled]:
   https://curriculum-content.s3.amazonaws.com/web-development/styled-codepen.jpeg
+margin: auto;
+  width: 100%;
+  height: 20px
+  border: 2px;
+  padding: 10px;
+  background-color: red;
